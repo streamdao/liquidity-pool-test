@@ -1,7 +1,7 @@
 {
     "name": "stream-liquidity-pool-frontend",
-    "version": "1.0.0",
-    "description": "",
+    "version": "0.1.0",
+    "description": "stream-liquidity-pool-frontend-demo",
     "main": "index.js",
     "scripts": {
         "start": "parcel src/index.html --no-cache",
