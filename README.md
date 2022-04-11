@@ -1,4 +1,4 @@
-# StreamToken, ICO, Liquidity Pool
+# StreamToken, ICO, Liquidity Pool - Project Sample
 
 An implementation of an ERC20 token with an ICO-controlling contract, and liquidity pool.
 
